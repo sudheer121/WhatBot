@@ -4,7 +4,7 @@ It uses Python modules like BeautifulSoup and Selenium
 Working/Features:
 1)Activates on typing Hello bot/Activate bot.
 2)Extracts 5 results with price on product name you type.
-3)Tells Temperature of cities .
+3)Tells Temperature of cities(in india) .
 4)Translates word in Hindi language.
 5)Basic reply features like hi/hello.
 6)For help type 'help'.
