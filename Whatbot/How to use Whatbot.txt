@@ -1,0 +1,10 @@
+I assume you know basic web scraping.
+Here modules Beautifulsoup,Requests and Selenium are used. 
+For Selenium,chromedriver is used. You may edit it as per your browser preference.(Chromedriver needs to be installed separately)
+While running it on your PC you will have to scan the QR on web Whatsapp and then Enter the name of person with whom the bot will chat in shell.
+For instructions type 'help'.
+Remember web scrapers don't work if site code is changed, in that case you will have to work your way out.
+It's June 2019 and the code works on current version of Whatsapp and currrent Amazon India site.
+Sorry ,I have not written all corner cases and sometimes the code screws up.
+Rest is on you.
+Happy Coding.
