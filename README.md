@@ -1,7 +1,6 @@
 <h1> WhatBot <h1> 
 <h2> About </h2>
 <hr>
-
 > This is a WhatsApp bot that scrapes data from web on basis of queries provided in chat.
 > It fetches data like,
 > <ul>
