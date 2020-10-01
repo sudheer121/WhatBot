@@ -42,7 +42,7 @@
 
 > Type anything on the chat, from any device and the bot will respond.
 
-> Precautions : In case scraping from Whatsapp doesn't work (since the UI keeps changing), make the required changes in selectors.
+> Precautions : In case scraping from Whatsapp doesn't work (since the UI keeps changing), make the required changes in selectors. Feel free to raise an issue and make a pull request with a sample image after making changes and running locally.
 
 > Explore !!!
 
