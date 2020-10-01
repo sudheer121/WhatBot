@@ -1,19 +1,23 @@
-# WhatBot
-Whatsapp bot that scrapes data from web on basis of queries.
-It uses Python modules like BeautifulSoup and Selenium
-Working/Features:
-1)Activates on typing Hello bot/Activate bot.
+<h1> WhatBot <h1> 
+<h2> About </h2>
+<hr>
 
-2)Extracts 5 results with price on product name you type.
+> This is a WhatsApp bot that scrapes data from web on basis of queries provided in chat.
+> It fetches data like,
+> <ul>
+>   <li> Temperature of Cities. </li>
+>   <li> Top 5 results of entered product from Amazon.in. </li>
+>   <li> Hindi translations of words. </li> 
+> </ul>
+> 
 
-3)Tells Temperature of cities(in india) .
+<h2> Requirements </h2>  
 
-4)Translates word in Hindi language.
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
+<p>
+<img alt="Beautifulsoup" src="https://img.shields.io/badge/Lib-BeautifulSoup-green" />
+<img alt="Requests" src="https://img.shields.io/badge/Lib-Requests-green" />
+<img alt="Selenium" src="https://img.shields.io/badge/Lib-Selenium-green" />
+<img alt="ChromeDriver" src="https://img.shields.io/badge/Webdriver-Chromedriver-red" />
+</p>
 
-5)Basic reply features like hi/hello.
-
-6)For help type 'help'.
-
-Features 2,3 and 4 use web crawling.
-
-Data is extracted by crawling and API's are not used.
