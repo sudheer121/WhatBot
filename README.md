@@ -48,4 +48,4 @@
 
 <h2> Full Video <h2>
   
-> Watch full video <a href="https://dms.licdn.com/playlist/C4E05AQEpIj8Q4DIldA/feedshare-captions-thumbnails-dualWrite-inhouse-mp4_h264_aac_500k/0?e=1601665200&v=beta&t=vfM7mEIqvV4l_3N4CZcwFGROa8M-XHM8-CSQaZ0GSfs">here</a>
+> Watch full video <a href="https://www.linkedin.com/posts/sudheer-tripathi-384239147_webcrawling-automation-web-activity-6545618381054234625-l0Ns">here</a>
